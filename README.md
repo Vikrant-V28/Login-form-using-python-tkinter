@@ -62,7 +62,6 @@ tkWindow.mainloop()
 
 Following video demonstrates the output and usage of above Python program.
 
-![Screenshot (146)](https://user-images.githubusercontent.com/85709371/147055238-258fda8a-ef22-4f32-885d-6cfba87d06fb.png)
-
+![Screenshot (147)](https://user-images.githubusercontent.com/85709371/147056687-d95000f2-2b88-4c91-bd46-5c1f57de9045.png)
 
 Note: We have used Entry(.., show='*') for password, to show stars when user types the password.
