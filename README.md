@@ -1,11 +1,11 @@
 # How to create Login Form using Python Tkinter?
 
-# Contents:
+### Contents:
 1. Introduction
 2. Example 1: Login Form using Python Tkinter
 3. Summary
 
-# Python Tkinter – Login Form
+### Python Tkinter – Login Form
 Login Form is one of the most used in GUI applications. Login Form helps users to login using user name and password. Once the credentials are validated, user can be given privileged access.
 
 _**Example 1: Login Form using Python Tkinter**_
