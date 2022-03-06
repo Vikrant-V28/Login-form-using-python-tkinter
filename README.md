@@ -1,6 +1,6 @@
 <div align="center">
   <img height="60" src="https://user-images.githubusercontent.com/85709371/156916372-d8c1bbdd-5fe9-40d1-a250-5a1d4d454832.png">
-  <img height="60" src="![jupyter](https://user-images.githubusercontent.com/85709371/156917513-f9f77e0b-03d2-41f9-b4ec-2dd92985547b.png)">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/156917513-f9f77e0b-03d2-41f9-b4ec-2dd92985547b.png">
 </div>
 
 # How to create Login Form using Python Tkinter?
