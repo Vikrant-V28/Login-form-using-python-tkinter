@@ -21,6 +21,10 @@ User can enter the details for username, password; and click on Login button.Onc
 
 For this example, in the credential validating function, we get the username and password entered by the user, and print it to the console.
 
+### Prerequisites
+- `Python 3`
+- `Jupyter Notebook`
+
 ## Python Program
 ```python
 from tkinter import *
