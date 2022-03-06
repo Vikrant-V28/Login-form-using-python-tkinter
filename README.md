@@ -24,6 +24,7 @@ For this example, in the credential validating function, we get the username and
 ### Prerequisites
 - `Python 3`
 - `Jupyter Notebook`
+- `Tkinter`
 
 ## Python Program
 ```python
