@@ -74,7 +74,7 @@ Following video demonstrates the output and usage of above Python program.
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/85709371/147056687-d95000f2-2b88-4c91-bd46-5c1f57de9045.png)
 
-Note: I have used Entry(.., show='*') for password, to show stars when user types the password.
+`Note:` I have used Entry(.., show='*') for password, to show stars when user types the password.
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
