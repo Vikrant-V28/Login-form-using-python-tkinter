@@ -26,7 +26,7 @@ For this example, in the credential validating function, we get the username and
 - `Jupyter Notebook`
 - `Tkinter`
 
-## Python Program
+## Python Program🧑🏻‍💻
 ```python
 from tkinter import *
 from functools import partial
@@ -77,4 +77,4 @@ Following video demonstrates the output and usage of above Python program.
 `Note:` I have used Entry(.., show='*') for password, to show stars when user types the password.
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
